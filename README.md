@@ -1,7 +1,7 @@
 # vba_send_email
 macro that sends emails according to client status
 
-# Energetikai Projekt Email Értesítő Makró – Portfólió
+# Energetikai Projekt Email Értesítő Makró
 
 ## Leírás
 Ez az Excel `.xlsm` fájl egy **automatizált ügyfél értesítő rendszert** tartalmaz VBA segítségével, kifejezetten nagy adatbázisok kezelésére (akár 8–10 ezer sor).  
